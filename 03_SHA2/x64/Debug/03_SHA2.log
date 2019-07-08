@@ -1,0 +1,3 @@
+﻿  main.cc
+F:\programme\study\Project_one_trainning\03_SHA2\03_SHA2\main.cc(20,36): warning C4267:  “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  03_SHA2.vcxproj -> F:\programme\study\Project_one_trainning\03_SHA2\x64\Debug\03_SHA2.exe

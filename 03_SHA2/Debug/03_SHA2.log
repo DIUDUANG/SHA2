@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 _SHA256_Init，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _SHA256_Update，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _SHA256_Final，该符号在函数 _main 中被引用
+D:\OpenSSL-Win64\lib\libcrypto.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\programme\study\Project_one_trainning\03_SHA2\Debug\03_SHA2.exe : fatal error LNK1120: 3 个无法解析的外部命令
